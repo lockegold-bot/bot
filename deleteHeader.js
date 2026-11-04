@@ -1,5 +1,5 @@
 /***********************************************
-> Delete RevenueCat ETag Header by nguyencongan
+> Delete RevenueCat ETag Header
 ***********************************************/
 
 var headers = $request.headers;
